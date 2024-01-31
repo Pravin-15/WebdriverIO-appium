@@ -1,0 +1,37 @@
+{
+  "name": "webdriverio-appium",
+  "version": "1.0.0",
+  "description": "Appium tests using WebDriverIO on Cucumber Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run wdio.conf.js",
+    "wdio:BS": "wdio run config.bs.js"
+  },
+  "keywords": [
+    "webdriverio",
+    "appium",
+    "cucumber"
+  ],
+  "author": "Pravin",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.26.1",
+    "@cucumber/cucumber": "^7.2.1"
+  },
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.24.12",
+    "@wdio/appium-service": "^8.26.1",
+    "@wdio/browserstack-service": "^8.26.3",
+    "@wdio/cucumber-framework": "^8.24.13",
+    "@wdio/local-runner": "^8.26.1",
+    "@wdio/spec-reporter": "^8.24.12",
+    "allure-commandline": "^2.25.0",
+    "appium": "^2.2.3",
+    "appium-uiautomator2-driver": "^2.34.2",
+    "wdio-cucumberjs-json-reporter": "^5.1.8",
+    "multiple-cucumber-html-reporter": "^1.16.2",
+    "fs-extra": "^11.1.1"
+ 
+  }
+}
