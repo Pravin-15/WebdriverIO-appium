@@ -17,6 +17,8 @@ This framework WebdriverIO 8 tests with cucumber and Javascript, followed by the
 + Node version 10.16
 
 ## Setup
+
+Go to the project folder from VS code and open terminal and put the below command, It will insall all the dependencies in node_modules
 ```
 npm install
 ```
