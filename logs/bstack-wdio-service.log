@@ -1,5 +1,0 @@
-[90m2024-01-11T09:55:13.711Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Using app: bs://93da080b9ba6fc42a70be503acf47432de022174
-[90m2024-01-11T09:55:13.711Z[39m [33mWARN[39m [97m@wdio/browserstack-service[39m Skipping buildIdentifier as buildName is not passed.
-[90m2024-01-11T09:55:13.712Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending launch start event
-[90m2024-01-11T09:55:14.923Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m [Start_Build] Success response: {"build_hashed_id":"2rnvaosezhms9czbqob49htpocw5zliymtysyjdq","jwt":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJicm93c2Vyc3RhY2tfb2IiLCJzdWIiOiI4MDg1Mjg3IiwiZ3JvdXBfaWQiOjc5OTU4MzYsInVzZXJfaWQiOjgwODUyODcsImJ1aWxkX2hhc2hlZF9pZCI6IjJybnZhb3NlemhtczljemJxb2I0OWh0cG9jdzV6bGl5bXR5c3lqZHEiLCJob29rX2FzX3Rlc3QiOiIxIiwiaWF0IjoxNzA0OTY2OTE0LCJleHAiOjE3MDUzMTI1MTR9.X2rCwBbc9cAYAGuRJ2XPxPZyL8i_3KVCOHWL7xU8wtQ","allow_screenshots":true}
-[90m2024-01-11T09:55:20.392Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Browserstack Local successfully started after 5456.240708112717ms
