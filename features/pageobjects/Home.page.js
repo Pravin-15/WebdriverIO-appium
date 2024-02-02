@@ -70,6 +70,7 @@ class HomePage extends Page {
 
         await this.popupOkBtn.click()
         await browser.pause(2000);
+        
     }
 
     // /**
